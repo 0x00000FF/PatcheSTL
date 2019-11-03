@@ -3,53 +3,53 @@
 PatcheSTL is a toy project that aims to implement C++ Standard Template Library(STL). Implementation target list is from [cppreference](https://en.cppreference.com/w/cpp/header).
 
 ## Concepts
-[ ] `<concepts>` (C++ 20)
+* [ ] `<concepts>` (C++ 20)
 
 ## Coroutines
-[ ] `<coroutine>` (C++ 20)
+* [ ] `<coroutine>` (C++ 20)
 
 ## Utilities
-[ ] `<cstdlib>`
+* [ ] `<cstdlib>`
 
-[ ] `<csignal>`
+* [ ] `<csignal>`
 
-[ ] `<csetjmp>`
+* [ ] `<csetjmp>`
 
-[ ] `<cstdarg>`
+* [ ] `<cstdarg>`
 
-[ ] `<typeinfo>`
+* [ ] `<typeinfo>`
 
-[ ] `<typeindex>` (C++ 11)
+* [ ] `<typeindex>` (C++ 11)
 
-[ ] `<type_traits>` (C++ 11)
+* [ ] `<type_traits>` (C++ 11)
 
-[ ] `<bitset>`
+* [ ] `<bitset>`
 
-[ ] `<functional>`
+* [ ] `<functional>`
 
-[ ] `<utility>`
+* [ ] `<utility>`
 
-[ ] `<ctime>`
+* [ ] `<ctime>`
 
-[ ] `<chrono>` (C++ 11)
+* [ ] `<chrono>` (C++ 11)
 
-[ ] `<cstddef>`
+* [ ] `<cstddef>`
 
-[ ] `<initializer_list>` (C++ 11)
+* [ ] `<initializer_list>` (C++ 11)
 
-[ ] `<tuple>` (C++ 11)
+* [ ] `<tuple>` (C++ 11)
 
-[ ] `<any>` (C++ 17)
+* [ ] `<any>` (C++ 17)
 
-[ ] `<optional>` (C++ 17)
+* [ ] `<optional>` (C++ 17)
 
-[ ] `<variant>` (C++ 17)
+* [ ] `<variant>` (C++ 17)
 
-[ ] `<compare>` (C++ 20)
+* [ ] `<compare>` (C++ 20)
 
-[ ] `<version>` (C++ 20)
+* [ ] `<version>` (C++ 20)
 
-[ ] `<source_location>` (C++ 20)
+* [ ] `<source_location>` (C++ 20)
 
 ## Dynamic Memory Management
 
