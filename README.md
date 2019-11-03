@@ -52,10 +52,35 @@ PatcheSTL is a toy project that aims to implement C++ Standard Template Library(
 * [ ] `<source_location>` (C++ 20)
 
 ## Dynamic Memory Management
+* [ ] `<new>`
+
+* [ ] `<memory>`
+
+* [ ] `<scoped_allocator>` (C++ 11)
+
+* [ ] `<memory_resources>` (C++ 17)
 
 ## Numeric Limits
+* [ ] `<climits>`
+
+* [ ] `<cfloat>`
+
+* [ ] `<cstdint>` (C++ 11)
+
+* [ ] `<cinttypes>` (C++ 11)
+
+* [ ] `<limits>`
 
 ## Error Handling
+* [ ] `<exception>`
+
+* [ ] `<stdexcept>`
+
+* [ ] `<cassert>`
+
+* [ ] `<system_error>` (C++ 11)
+
+* [ ] `<cerrno>`
 
 ## Strings
 
