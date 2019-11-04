@@ -83,16 +83,64 @@ PatcheSTL is a toy project that aims to implement C++ Standard Template Library(
 * [ ] `<cerrno>`
 
 ## Strings
+* [ ] `<cctype>`
+
+* [ ] `<cwctype>`
+
+* [ ] `<cstring>`
+
+* [ ] `<cwchar>`
+
+* [ ] `<cuchar>` (C++ 11)
+
+* [ ] `<string>`
+
+* [ ] `<string_view>` (C++ 17)
+
+* [ ] `<charconv>` (C++ 17)
+
+* [ ] `<format>` (C++ 20)
 
 ## Containers
+* [ ] `<array>` (C++ 11)
+
+* [ ] `<vector>`
+
+* [ ] `<deque>`
+
+* [ ] `<list>`
+
+* [ ] `<forward_list>` (C++ 11)
+
+* [ ] `<set>`
+
+* [ ] `<unordered_set>` (C++ 11)
+
+* [ ] `<unordered_map>` (C++ 11)
+
+* [ ] `<stack>`
+
+* [ ] `<queue>`
+
+* [ ] `<span>`
 
 ## Iterators
 
+* [ ] `<iterator>`
+
 ## Ranges
+
+* [ ] `<ranges>` (C++ 20)
 
 ## Algorithms
 
+* [ ] `<algorithm>`
+
+* [ ] `<execution>` (C++ 17)
+
 ## Numerics
+
+
 
 ## I/O
 
