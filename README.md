@@ -9,7 +9,7 @@ PatcheSTL is a toy project that aims to implement C++ Standard Template Library(
 * [ ] `<coroutine>` (C++ 20)
 
 ## Utilities
-* [ ] `<cstdlib>`
+* [x] `<cstdlib>` (Header done, Impl left)
 
 * [ ] `<csignal>`
 
