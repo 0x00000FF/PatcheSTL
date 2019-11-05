@@ -20,7 +20,7 @@ namespace pstd
         size_t;
 
     typedef 
-        struct {int, int} 
+        struct {int, int}
         div_t;
         
     typedef 
