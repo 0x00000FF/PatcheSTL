@@ -7,19 +7,31 @@
 
   ------------------------------------------------- */
 
-#include <cstdlib>
+#include <cstdlib.h>
 
-[[noreturn]]
-void abort() noexcept { }
-[[noreturn]]
-void exit(int exit_code) { }
-[[noreturn]]
-void quick_exit(int exit_code) noexcept { }
-[[noreturn]]
-void _Exit(int exit_code) noexcept { }
-int atexit(atexit_handler   *func) noexcept { }
-int atexit(c_atexit_handler *func) noexcept { }
-int at_quick_exit(atexit_handler   *func) noexcept { }
-int at_quick_exit(c_atexit_handler *func) noexcept { }
-int   system(const char* command) { }
-char *getenv(const char* env_var) { }
+namespace pstd 
+{
+    [[noreturn]]
+    void abort() noexcept { }
+
+    [[noreturn]]
+    void exit(int exit_code) { }
+
+    [[noreturn]]
+    void quick_exit(int exit_code) noexcept { }
+
+    [[noreturn]]
+    void _Exit(int exit_code) noexcept { }
+
+    int atexit(atexit_handler   *func) noexcept { }
+
+    int atexit(c_atexit_handler *func) noexcept { }
+
+    int at_quick_exit(atexit_handler   *func) noexcept { }
+
+    int at_quick_exit(c_atexit_handler *func) noexcept { }
+
+    int   system(const char* command) { }
+
+    char *getenv(const char* env_var) { }
+}
